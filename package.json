@@ -1,0 +1,22 @@
+{
+  "name": "fullstack-ayacucho",
+  "version": "1.0.0",
+  "description": "\"ejercicios de la carrera\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jereayacucho/fullStack-Ayacucho.git"
+  },
+  "author": "jereayacucho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jereayacucho/fullStack-Ayacucho/issues"
+  },
+  "homepage": "https://github.com/Jereayacucho/fullStack-Ayacucho#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
