@@ -59,7 +59,7 @@
    }
 .centro{
     display:flex;
-    height: 500px;
+    height: 70mm;
     flex-wrap: wrap;
     flex-direction:row;
     justify-content: space-between;
@@ -68,7 +68,7 @@
 .divIzquierda {
     background-color: #00bdaa;
     width: 30%;
-    height: 110mm;
+    height: 55mm;
     border-radius: 50px;
     border-width: 200px;
     margin-top: 10mm;
@@ -78,7 +78,7 @@
 .divCentro {
     background-color: #bd0075;
     width: 30%;
-    height: 110mm;
+    height: 55mm;
     border-radius: 50px;
     border-width: 200px;
     margin-top: 10mm;
@@ -86,13 +86,39 @@
 .divDerecha {
     background-color: #2cbd00;
     width: 30%;
-    height: 110mm;
+    height: 55mm;
     border-radius: 50px;
     border-width: 200px;
     margin-top: 10mm;
     margin-left: 5%;
-   }           
-   .pieDePagina {
+   }  
+.centroBajo{
+    display:flex;
+    height: 70mm;
+    flex-wrap: wrap;
+    flex-direction:row;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+.divIzquierdaB {
+    background-color: #bd00b4;
+    width: 65%;
+    height: 55mm;
+    border-radius: 50px;
+    border-width: 10px;
+    margin-top: 1mm;
+        
+   }
+.divDerechaB {
+    background-color: #274d1c;
+    width: 30%;
+    height: 55mm;
+    border-radius: 50px;
+    border-width: 10px;
+    margin-top: 1mm;
+    margin-left: 5%;
+}
+ .pieDePagina {
     display:flex;
     background-color:#b4b2b6;
     height: 100px;
