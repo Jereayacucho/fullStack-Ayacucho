@@ -1,0 +1,118 @@
+.contenedor {
+    display:flex;
+    background-color:#b4b2b6;
+    height: 100px;
+    flex-direction:column;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    border-radius: 10px;
+    border-width:5px
+}
+.divEncabezado{
+    width: 60mm;
+    height: 7mm;
+    margin-left: 10px;
+    border-radius: 5px;
+
+}
+.divMenu{
+    background-color: #fe346e;
+    width: 50mm;
+    height: 7mm;
+    color:aliceblue;
+    align-items: center;
+    border-color: #07000d;
+    border-style: solid;
+    padding: 6px;
+    align-self: flex-end;
+    margin-right: 10px;
+    border-radius: 5px;
+    border-width: 2px;
+}
+.divMenu2 {
+    background-color: #6034fe;
+    width: 100mm;
+    height: 7mm;
+    color:aliceblue;
+    align-items: center;
+    border-color: #07000d;
+    border-style: solid;
+    padding: 6px;
+    align-self: flex-end;
+    margin-right: 10px;
+    border-radius: 5px;
+    border-width: 2px;
+   }
+.divLogo {
+    background-color: #400082;
+    color:aliceblue;
+    align-items: center;
+    border-color: #07000d;
+    border-style: solid;
+    padding: 6px;
+    margin-left: 10px;
+    border-radius: 5px;
+    border-width: 2px;
+    width: 100mm;
+    height: 7mm;
+    align-self: flex-start;
+   }
+.centro{
+    display:flex;
+    height: 500px;
+    flex-wrap: wrap;
+    flex-direction:row;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+.divIzquierda {
+    background-color: #00bdaa;
+    width: 30%;
+    height: 110mm;
+    border-radius: 50px;
+    border-width: 200px;
+    margin-top: 10mm;
+    margin-right: 5%;
+    
+   }
+.divCentro {
+    background-color: #bd0075;
+    width: 30%;
+    height: 110mm;
+    border-radius: 50px;
+    border-width: 200px;
+    margin-top: 10mm;
+   }
+.divDerecha {
+    background-color: #2cbd00;
+    width: 30%;
+    height: 110mm;
+    border-radius: 50px;
+    border-width: 200px;
+    margin-top: 10mm;
+    margin-left: 5%;
+   }           
+   .pieDePagina {
+    display:flex;
+    background-color:#b4b2b6;
+    height: 100px;
+    flex-direction:column;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    border-radius: 10px;
+    border-width:5px
+}
+.divElemento
+{background-color: #6034fe;
+    width: 100mm;
+    height: 7mm;
+    color:aliceblue;
+    align-items: center;
+    border-color: #07000d;
+    border-style: solid;
+    padding: 6px;
+    align-self: flex-end;
+    margin-right: 10px;
+    border-radius: 5px;
+    border-width: 2px;
+}
